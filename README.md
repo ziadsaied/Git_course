@@ -1,3 +1,3 @@
-# get_pro
+# Git_course
 web alzoz
 ##project note
